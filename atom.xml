@@ -5,9 +5,9 @@
   <subtitle>yuyongblogs</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yuyong.github.io/"/>
+  <link href="http://joelany.github.io/"/>
   <updated>2018-03-02T07:41:57.000Z</updated>
-  <id>http://yuyong.github.io/</id>
+  <id>http://joelany.github.io/</id>
   
   <author>
     <name>yuyong</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yuyong.github.io/2018/03/02/hello-world/"/>
-    <id>http://yuyong.github.io/2018/03/02/hello-world/</id>
+    <link href="http://joelany.github.io/2018/03/02/hello-world/"/>
+    <id>http://joelany.github.io/2018/03/02/hello-world/</id>
     <published>2018-03-02T07:41:57.000Z</published>
     <updated>2018-03-02T07:41:57.000Z</updated>
     
