@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://joelany.github.io/"/>
-  <updated>2018-03-02T07:49:42.000Z</updated>
+  <updated>2018-03-02T07:41:57.000Z</updated>
   <id>http://joelany.github.io/</id>
   
   <author>
@@ -15,20 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>cddang</title>
-    <link href="http://joelany.github.io/2018/03/02/cddang/"/>
-    <id>http://joelany.github.io/2018/03/02/cddang/</id>
-    <published>2018-03-02T07:49:42.000Z</published>
-    <updated>2018-03-02T07:49:42.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
